@@ -1,6 +1,6 @@
 # Elden Ring Checklist
 
-| [Download Elden Ring Checklist v1.0](https://github.com/ArchExalt/EldenRingChecklist/blob/main/ERC-v1.0.apk) | [Privacy Policy](https://archexalt.github.io/EldenRingChecklist/) |
+| [Download Elden Ring Checklist v1.0](https://github.com/ArchExalt/EldenRingChecklist/releases/tag/stable) | [Privacy Policy](https://archexalt.github.io/EldenRingChecklist/) |
 | --- | --- |
 
 SHA-256: e37d1305953376b1363e32e8bb92f5de06d75f2ab8c597577fb7b6f2cdf993f8
