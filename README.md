@@ -3,7 +3,7 @@
 | [Download Elden Ring Checklist v1.0](https://github.com/ArchExalt/EldenRingChecklist/releases/tag/stable) | [Privacy Policy](https://archexalt.github.io/EldenRingChecklist/) |
 | --- | --- |
 
-SHA-256: e37d1305953376b1363e32e8bb92f5de06d75f2ab8c597577fb7b6f2cdf993f8
+SHA-256: 018e180cfe1635159e011f51c279dc440e8db426da585a14e7f5adc34b8a1df1
 
 Update v1.0 (21.07.24):
 
