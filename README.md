@@ -3,7 +3,7 @@
 | [Download Elden Ring Checklist v1.0](https://github.com/ArchExalt/EldenRingChecklist/releases/tag/stable) | [Privacy Policy](https://archexalt.github.io/EldenRingChecklist/) |
 | --- | --- |
 
-SHA-256: 018e180cfe1635159e011f51c279dc440e8db426da585a14e7f5adc34b8a1df1
+SHA-256: 7cc49dcb84e56a5e87216c9fb975f84075670bb030dc00beb08a87174b0ca12e
 
 Update v1.0 (21.07.24):
 
@@ -20,7 +20,7 @@ Functionality:
 - switch between light/dark theme;
 - use the app in offline mode, no Internet connection required.
 
-If you have any questions, would like to contribute to the app, or want to report a bug, feel free to open an issue on GitHub or contact me via email.
+If you have any questions, would like to contribute to the app, or want to report a bug, feel free to open an issue on GitHub or contact me via archexalt@proton.me.
 
 Special thanks to kgnokt for saving me some time editing the texts.
 
