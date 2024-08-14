@@ -31,3 +31,10 @@ If you would like to support me:
 ---
 
 <img width="150px" src="./screenshot1.png" alt="screenshot1.png" /> <img width="150px" src="./screenshot2.png" alt="screenshot2.png" /> <img width="150px" src="./screenshot3.png" alt="screenshot3.png" /> <img width="150px" src="./screenshot4.png" alt="screenshot4.png" />
+
+This work © 2024 by ArchExalt is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][cc-by-nc-sa]
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
